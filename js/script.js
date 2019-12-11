@@ -1,9 +1,6 @@
-
-
-
-
-
-
+function performLogic(button, tile) {
+    console.log("hello");
+}
 
 $("#button1").click(function() {
     performLogic("#button1","#tile1");
@@ -40,4 +37,3 @@ $("#button8").click(function() {
 $("#button9").click(function() {
     performLogic("#button9","#tile9");
 });
-
