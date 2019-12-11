@@ -1,5 +1,6 @@
 function performLogic(button, tile) {
     console.log("hello");
+    
 }
 
 $("#button1").click(function() {
